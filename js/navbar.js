@@ -14,7 +14,7 @@ function setHeader() {
     <div class="Title">
         <div class="Title-Introduce">
             <a href="./index.html">
-                <img class="Title-Icon" src="../images/title2.png">
+                <img class="Title-Icon" src="./images/title2.png">
             </a>
                 <ul class="Title-Menu">
                     <li>
@@ -50,7 +50,7 @@ function setFooter() {
     bottom.innerHTML += /*html*/ `
     <div class="Bottom">
         <div class="Bottom-Introduce">
-            <img src="../images/Xiaoyuan.png">
+            <img src="./images/Xiaoyuan.png">
             <div class="Bottom-button">
                 <div>
                     <a href="./index.html">最新消息</a>
